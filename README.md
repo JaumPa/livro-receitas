@@ -6,5 +6,3 @@
 
 - Strogonoff de frango :chicken:
 - torta de maca :apple: :green_apple: :cake:
-- 
-- 
